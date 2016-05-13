@@ -1,28 +1,40 @@
-name: exoteric
 favicon: null
-layout_spectrum: 0.30014606029726565
-typography_spectrum: 0.6414138744585216
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: exoteric
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.5822380217723548
-  lightness: 0.7763995993882418
-  saturation: 0.6108069778420031
-  rhythmicContrast: 0.830635612597689
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.8853046
+  brandStrength: 0.7903226
+  lightness: 0.9211469
+  brandColors:
+    - '#FFFFFF'
+    - '#0D0D0D'
+    - '#E1D8E0'
+    - '#C8B8BE'
+    - '#A59192'
+  rhythmicContrast: 0.5268817
+typography_spectrum: 0.7759857
+layout_spectrum: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
