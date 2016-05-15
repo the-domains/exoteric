@@ -1,9 +1,7 @@
-favicon: null
 name: exoteric
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.7759857
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8853046
-  brandStrength: 0.2455197
-  lightness: 0.9211469
   brandColors:
     - '#8B92A1'
     - '#959FB0'
     - '#CFC1CA'
     - '#BFC8DA'
     - '#D5DFDC'
-  rhythmicContrast: 0.5268817
-typography_spectrum: 0.7759857
-layout_spectrum: 1
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+  brandStrength: 1
+  lightness: 0.1875
+  saturation: 0.5
+  rhythmicContrast: 0.75
+purpose: []
