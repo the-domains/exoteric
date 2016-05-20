@@ -1,24 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[exoteric]]></title>
-        <description><![CDATA[exoteric]]></description>
-        <link>https://thegrid.ai/exoteric/</link>
+        <title><![CDATA[exoteric | news from the front line]]></title>
+        <description><![CDATA[exoteric | news from the front line]]></description>
+        <link>http://blog.exotericgrowth.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 07:03:47 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/exoteric/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 May 2016 18:51:24 GMT</lastBuildDate>
+        <atom:link href="http://blog.exotericgrowth.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[the values of a human economy]]></title>
             <description><![CDATA[<article><h1>the values of a human economy</h1><p>modern values favor creative expression and compassion over analytical skills that can be better accomplished by technology</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e85245ad-364b-4bdc-a02a-5c5b33be0356.jpg"></article>]]></description>
-            <link>https://thegrid.ai/exoteric/the-values-of-a-human-economy/index.html</link>
+            <link>http://blog.exotericgrowth.com/the-values-of-a-human-economy/index.html</link>
             <guid isPermaLink="false">cefa4ff2-36b7-44ea-8ce2-12de0cf51b86</guid>
             <pubDate>Sun, 15 May 2016 07:03:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From the Knowledge Economy to the Human Economy]]></title>
-            <description><![CDATA[<article><h1>From the Knowledge Economy to the Human Economy</h1><p>economies </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/729795e20b18f5fe14d07087e48f0b46ae1f3f03.jpg"></article>]]></description>
-            <link>https://hbr.org/2014/11/from-the-knowledge-economy-to-the-human-economy</link>
-            <guid isPermaLink="false">61280d69-0962-4466-9a4f-5a1701fd80b1</guid>
-            <pubDate>Sat, 14 May 2016 02:05:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
