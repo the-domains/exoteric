@@ -14,7 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: 'exoteric | news from the front line of data driven growth'
+title: 'exoteric | news from the front line'
 cta:
   domain: null
   bucket: null
